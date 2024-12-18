@@ -1,0 +1,72 @@
+Temparature,Soil_Type,Crop_Type,Fertilizer,Usage ,Instructions ,Fertilizer_Quantity_per_Acre ,Irrigation_Requirement,Brand 
+20,Clayey,rice,Urea,Soil enrichment ,Apply during sowing to boost nitrogen content. ,50kg,High,"Sarsabz, Sona, Engro Urea "
+25,Loamy,rice,Urea,Soil enrichment ,Apply during sowing to improve crop growth ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+33,Loamy,Wheat,Urea,Soil enrichment ,Apply in early stages to boost growth. ,70kg,Regular water every 2 days,"Sarsabz, Sona, Engro Urea "
+34,Loamy,Wheat,Urea,Soil enrichment ,Apply in early stages to improve yield. ,70kg,Regular water every 2 days,"Sarsabz, Sona, Engro Urea "
+38,Loamy,Wheat,Urea,Soil enrichment ,Apply in early stages to improve growth. ,75kg,Regular water every 2 days,"Sarsabz, Sona, Engro Urea "
+31,Red,Tobacco,Urea,Soil enrichment ,Apply in early stages to improve nitrogen uptake. ,45kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+32,Loamy,Sugarcane,Urea,Soil enrichment ,Apply during planting to enhance root growth. ,100kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+34,Black,Sugarcane,Urea,Soil enrichment ,Apply during planting for better root development ,120kg,High,"Sarsabz, Sona, Engro Urea "
+33,Clayey,Pulses,Urea,Nitrogen fixing ,Apply to boost nitrogen fixation in pulses. ,40kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+28,Clayey,Pulses,Urea,Nitrogen fixing ,Apply to enhance nitrogen availability ,45kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+27,Loamy,pomegranate,Urea,Soil enrichment ,Apply during early growth to boost nitrogen levels. ,55kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+28,Clayey,Paddy,Urea,Soil enrichment ,Apply in the early stage of growth. ,50kg,High,"Sarsabz, Sona, Engro Urea "
+34,Clayey,Paddy,Urea,Soil enrichment ,Apply during early stages of growth for better yield ,60kg,High,"Sarsabz, Sona, Engro Urea "
+27,Black,Oil seeds,Urea,Soil enrichment ,Apply to enhance nitrogen content. ,50kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+28,Black,Millets,Urea,Soil enrichment ,Apply during early growth to boost yield. ,55kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+30,Sandy,Millets,Urea,Soil enrichment ,Apply during sowing for better yield. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+27,Black,Millets,Urea,Soil enrichment ,Apply to enhance crop growth ,55kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+26,Sandy,Maize,Urea,Soil enrichment ,Apply in early stages for better growth. ,65kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+30,Red,Ground Nuts,Urea,Soil enrichment ,Apply during early growth for improved root development. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+36,Red,Ground Nuts,Urea,Soil enrichment ,Apply in early stages to enhance root growth. ,70kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+25,Loamy,Cotton,Urea,Soil enrichment ,Apply during planting to improve fiber quality ,65kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+28,Black,Cotton,Urea,Soil enrichment ,Apply during sowing to improve cotton yield. ,70kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+26,Loamy,coffee,Urea,Soil enrichment ,Apply during early stages for improved growth. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+25,Loamy,watermelon,TSP,Phosphorus booster ,Apply during planting to promote root growth. ,55kg,Regular water every 3 days,Engro TSP 
+26,Loamy,rice,TSP,Phosphorus booster ,Apply during sowing to enhance early growth ,60kg,Regular water every 3 days,Engro TSP 
+30,Loamy,pomegranate,TSP,Phosphorus booster ,Apply during early stages for root development ,60kg,Regular water every 3 days,Engro TSP 
+26,Loamy,watermelon,TSP,Phosphorus booster ,Apply to enhance root growth. ,55kg,Regular water every 3 days,Engro TSP 
+25,Loamy,pomegranate,Superphosphate,Phosphorus booster ,Apply during sowing for root development. ,60kg,Regular water every 3 days,Engro Superphosphate 
+28,Loamy,pomegranate,Superphosphate,Phosphorus booster ,Apply during sowing for better growth. ,60kg,Regular water every 3 days,Engro Superphosphate 
+29,Loamy,pomegranate,Potassium sulfate.,Potassium booster ,Apply during early growth to enhance plant health ,50kg,Regular water every 3 days,Engro Potassium Sulfate 
+26,Sandy,Cotton,Potassium sulfate.,Potassium booster ,Apply during planting to improve cotton quality. ,60kg,Low,Engro Potassium Sulfate 
+25,Clayey,rice,DAP,Phosphorus and Nitrogen ,Apply to promote early root growth. ,55kg,High,"Sarsabz DAP, Engro DAP "
+29,Loamy,Wheat,DAP,Phosphorus and Nitrogen ,Apply to promote early growth. ,60kg,Regular water every 2 days,"Sarsabz DAP, Engro DAP "
+35,Red,Tobacco,DAP,Phosphorus and Nitrogen ,Apply in early stages for better growth. ,60kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+29,Loamy,Sugarcane,DAP,Phosphorus and Nitrogen ,Apply to promote early root development ,100kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+30,Loamy,Sugarcane,DAP,Phosphorus and Nitrogen ,Apply during early growth to enhance yield. ,120kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+22,Clayey,rice,DAP,Phosphorus and Nitrogen ,Apply during planting for better root growth ,50kg,High,"Sarsabz DAP, Engro DAP "
+27,Clayey,Pulses,DAP,Nitrogen fixing ,Apply to enhance nitrogen fixation. ,45kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+37,Clayey,Paddy,DAP,Phosphorus and Nitrogen ,Apply during early growth to improve yield. ,60kg,High,"Sarsabz DAP, Engro DAP "
+37,Black,Oil seeds,DAP,Phosphorus and Nitrogen ,Apply to enhance nitrogen fixation in oilseeds. ,50kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+29,Sandy,Millets,DAP,Phosphorus and Nitrogen ,Apply to improve early growth ,55kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+36,Sandy,Millets,DAP,Phosphorus and Nitrogen ,Apply during planting for better yield ,55kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+26,Red,Ground Nuts,DAP,Phosphorus and Nitrogen ,Apply in early stages to promote root development. ,60kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+32,Red,Ground Nuts,DAP,Phosphorus and Nitrogen ,Apply during early growth to enhance yield. ,70kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+33,Red,Ground Nuts,DAP,Phosphorus and Nitrogen ,Apply in early stages for improved growth. ,70kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+24,Sandy,Cotton,DAP,Phosphorus and Nitrogen ,Apply during planting to improve cotton yield. ,60kg,Low,"Sarsabz DAP, Engro DAP "
+36,Red,Cotton,DAP,Phosphorus and Nitrogen ,Apply to enhance cotton growth ,70kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+34,Red,Cotton,DAP,Phosphorus and Nitrogen ,Apply during early growth for better yield. ,70kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+29,Black,Cotton,DAP,Phosphorus and Nitrogen ,Apply to improve cotton yield. ,60kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+29,Loamy,Cotton,DAP,Phosphorus and Nitrogen ,Apply during early growth for better cotton yield. ,65kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+23,Sandy,coffee,DAP,Phosphorus and Nitrogen ,Apply during planting for better root growth. ,60kg,Low,"Sarsabz DAP, Engro DAP "
+25,Sandy,coffee,DAP,Phosphorus and Nitrogen ,Apply in early stages to promote growth. ,55kg,Low,"Sarsabz DAP, Engro DAP "
+35,Sandy,Barley,DAP,Phosphorus and Nitrogen ,Apply during early growth for better yield. ,55kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+30,Sandy,Barley,DAP,Phosphorus and Nitrogen ,Apply during planting to enhance growth. ,55kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+20,Clayey,Wheat ,Urea ,Soil enrichment ,Apply during early growth stages to enhance nitrogen content for better plant development. ,50kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+25,Loamy,Wheat ,Urea ,Soil enrichment ,Apply during sowing for initial growth and improved crop yield. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+30,Loamy,Wheat ,Urea ,Soil enrichment ,Apply during early stages to boost nitrogen levels and root development. ,65kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+33,Loamy,Wheat ,Urea ,Soil enrichment ,Apply in the early stages of growth to support strong tillering. ,70kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+34,Loamy,Wheat ,Urea ,Soil enrichment ,Apply during the vegetative phase to ensure good crop density. ,75kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+38,Loamy,Wheat ,Urea ,Soil enrichment ,Apply in mid-growing stages to support the nitrogen requirement during grain filling. ,80kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+31,Red,Wheat ,Urea ,Soil enrichment ,Apply at sowing and vegetative stages to promote healthy growth. ,55kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+32,Loamy,Wheat ,Urea ,Soil enrichment ,Apply at sowing for balanced growth and high yield potential. ,65kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+33,Clayey,Wheat ,Urea ,Soil enrichment ,Apply to enhance nitrogen content in the soil and promote early root growth. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+30,Red,Wheat ,Urea ,Soil enrichment ,Apply during sowing to ensure optimal growth conditions. ,60kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+36,Sandy,Wheat ,Urea ,Soil enrichment ,Apply during early growth stages for improved nitrogen uptake. ,70kg,Regular water every 3 days,"Sarsabz, Sona, Engro Urea "
+29,Loamy,Wheat ,TSP ,Phosphorus booster ,Apply during planting for strong root development and early-stage growth. ,55kg,Regular water every 3 days,Engro TSP 
+35,Red,Wheat ,DAP,Phosphorus and Nitrogen ,Apply during planting for healthy early growth and root establishment. ,60kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+33,Red,Wheat ,DAP,Phosphorus and Nitrogen ,Apply to ensure balanced nutrition and prevent nutrient deficiencies during early stages. ,60kg,Regular water every 3 days,"Sarsabz DAP, Engro DAP "
+28,Loamy,Wheat ,Superphosphate ,Phosphorus booster ,Apply during sowing for optimal phosphorus levels ,60kg,Regular water every 3 days,Engro Superphosphate 
+26,Loamy,Wheat ,Potassium sulfate ,Phosphorus booster ,"Apply to improve plant health and drought tolerance, especially in later stages of growth. ",50kg,Regular water every 3 days,Engro Potassium Sulfate 
+34,Red,Wheat ,Potassium chloride ,Phosphorus booster ,Apply to enhance the plant's resistance to environmental stress and improve yield. ,50kg,Regular water every 3 days,Engro Potassium Chloride 
